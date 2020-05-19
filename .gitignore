@@ -3,3 +3,4 @@
 .DS_Store
 /sandbox
 data/svi/SVI2018_US_tract.geojson
+data/lower_48_county.geojson
