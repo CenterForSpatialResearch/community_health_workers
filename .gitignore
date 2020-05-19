@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+/data_processing/
+.DS_Store
+/sandbox
+data/svi/SVI2018_US_tract.geojson
