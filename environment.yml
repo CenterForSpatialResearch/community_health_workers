@@ -9,4 +9,7 @@ dependencies:
   - jupyter
   - geopandas
   - contextily
+  - cenpy
+  - seaborn
+  - mapclassify
 
